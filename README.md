@@ -73,5 +73,4 @@
 
 Siempre estoy abierto a colaborar en proyectos interesantes o charlar sobre backend, sistemas distribuidos y Spring Boot.
 
-**Gracias por visitar mi perfil** ✨  
-Siempre estoy abierto a colaborar en proyectos interesantes o charlar sobre backend, sistemas distribuidos y Spring Boot.
+---
